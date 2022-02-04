@@ -167,6 +167,7 @@
 # 24 Jun 2021, 3d-gussner, MK404 is only supported on Linux at this moment.
 # 03 Jan 2022, 3d-gussner, Remove calling lang-community.sh as not needed anymore
 
+
 SCRIPT_PATH="$( cd "$(dirname "$0")" ; pwd -P )"
 
 #### Start: Failures
